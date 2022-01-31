@@ -1,2 +1,27 @@
-# i3
-i3 Config for Arzix OS
+# Gruvbox Dotfile
+Dot Files For i3 WM + Polybar + Rofi And Many Others
+
+
+## Terminal
+![Terminal](https://raw.githubusercontent.com/Maharsh17/Archive/main/Screenshot/Gruv/Terminal.png "Terminal")
+
+
+## Launcher
+![Launcher](https://raw.githubusercontent.com/Maharsh17/Archive/main/Screenshot/Gruv/Launcher.png "Launcher")
+
+
+
+## Used Applications
+
+| Type        | Application           |
+| ------------| ----------------------|
+| Terminal    | alacritty             |
+| Bar         | polybar               |
+| Launcher    | rofi                  |
+| Compositor  | picom-jonaburg-git    |
+| GTK Theme   | Gruvbox               |
+| Icon        | Papirus               |
+| Fonts       | Jet Brains and Iosevka|
+
+
+  
